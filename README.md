@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=gretoq&show_icons=true&theme=dark)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gretoq)](https://git.io/streak-stats)
 
 ## Connect with Me
 
