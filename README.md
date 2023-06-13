@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 - 🌱 I’m currently learning Next.js and Node.js
 - 👯 I’m looking to collaborate on Open-Source Projects
 - 📫 How to reach me: 
-  *Email me at [dovhun.artem.job@gmailcom](mailto:dovhun.artem.job@gmailcom)
-  *Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/dovhun-artem/)
-  *Write me: [Telegram](https://t.me/gretoq)
+  -*Email me at [dovhun.artem.job@gmailcom](mailto:dovhun.artem.job@gmailcom)
+  -*Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/dovhun-artem/)
+  -*Write me: [Telegram](https://t.me/gretoq)
 
 ## Skills
 
