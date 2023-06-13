@@ -13,11 +13,16 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 
 ## Skills
 
-- Programming Languages: JavaScript, TypeScript
-- Frameworks and Libraries: React, Next.js, Node.js, Express.js
-- Tools and Technologies: Git, GitHub, Trello, ClickUp, Figma, npm, yarn, VSCode
-- Databases: PostgreSQL, MongoDB
-- Other: HTML5/CSS3, SCSS, BEM, TailWindCSS, Redux, RESTful APIs, Sequelize, Mongoose
+- Programming Languages:
+  - JavaScript, TypeScript
+- Frameworks and Libraries: 
+  - React, Next.js, Node.js, Express.js
+- Tools and Technologies: 
+  - Git, GitHub, Trello, ClickUp, Figma, npm, yarn, VSCode
+- Databases:
+  - PostgreSQL, MongoDB
+- Other:
+  - HTML5/CSS3, SCSS, BEM, TailWindCSS, Redux, RESTful APIs, Sequelize, Mongoose
 
 ## Projects
 
