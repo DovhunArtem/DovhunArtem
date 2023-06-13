@@ -11,6 +11,8 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
   - Connect with me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/dovhun-artem/)
   - Write me: [Telegram](https://t.me/gretoq)
 
+[![GitHub](https://example.com/button-image.png)](https://github.com/your-username)
+
 ## Skills
 
 - Programming Languages:
