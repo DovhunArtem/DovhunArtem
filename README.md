@@ -28,11 +28,8 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 
 ## Projects
 
+- [Project 1]: Brief description or tagline
 <!-- - [Project 1]: Brief description or tagline -->
-
-## Open-Source Contributions
-
-<!-- - [Repository 1]: Brief description or tagline -->
 
 ## GitHub Stats
 
