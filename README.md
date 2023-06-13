@@ -28,7 +28,8 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 
 ## Projects
 
-- ###[Prompter](https://prompter-gretoq.vercel.app): This is a web application that allows users to exchange requests to an AI. It is built using modern technologies such as Next.js, TypeScript, Next App Router, Next Auth, Tailwind CSS, MongoDB, Mongoose, React Hot Toast, React Skeleton, SWR, and React CSSTransition.
+###[Prompter](https://prompter-gretoq.vercel.app): 
+- This is a web application that allows users to exchange requests to an AI. It is built using modern technologies such as Next.js, TypeScript, Next App Router, Next Auth, Tailwind CSS, MongoDB, Mongoose, React Hot Toast, React Skeleton, SWR, and React CSSTransition.
   - *[Demo Link](https://prompter-gretoq.vercel.app)* | *[Go to code](https://github.com/DovhunArtem/next_prompter)*
 <!-- - [Project 1]: Brief description or tagline -->
 
