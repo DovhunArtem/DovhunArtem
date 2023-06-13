@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Artem! 👋
 
 Welcome to my GitHub profile! I'm a Fullstack developer passionate about web development. Here you'll find some of my personal projects, contributions to open-source repositories, and more.
 
