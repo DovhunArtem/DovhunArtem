@@ -40,7 +40,7 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 - Technologies such as React, JavaScript, TypeScript, HTML/CSS, PostgreSQL, Sequelize, Express.js, React Skeleton, React Query, React Slick, React Swiper.
 ### *[Demo Link](https://fe-jan23-team-six.github.io/product-catalog/#/)* | *[Go to code](https://github.com/fe-jan23-team-six)*
 
-### ![image](https://github.com/DovhunArtem/DovhunArtem/assets/135975560/24ffb10d-747b-46f6-8f1e-1e8649259700) [Todo App](https://gretoq.github.io/todo-app/)
+### ![image](https://github.com/DovhunArtem/DovhunArtem/assets/135975560/e705046f-7f1f-4342-a637-a4a29d6be4bd) [Todo App](https://gretoq.github.io/todo-app/)
 
 - A single-page application that allows users to create and manage a list of tasks. 
 - Technologies such as React, JavaScript, TypeScript, HTML/CSS, Fetch, REST API and React CSSTransition.
