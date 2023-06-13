@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/dovhun-artem/)
 - [Telegram](https://t.me/gretoq)
 
 Feel free to explore my repositories and reach out to me. I'm always open to interesting discussions and collaborations!
