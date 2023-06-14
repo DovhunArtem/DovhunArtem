@@ -44,7 +44,7 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 
 ## 
 
-### ![image 23](https://github.com/DovhunArtem/DovhunArtem/assets/135975560/e01d5599-4277-4995-9f2b-6540c92ca5b9) [Todo App](https://gretoq.github.io/todo-app/)
+### ![image 23 (1)](https://github.com/DovhunArtem/DovhunArtem/assets/135975560/16a01c82-faf1-462f-86ae-364b60f5d39e) [Todo App](https://gretoq.github.io/todo-app/)
 
 - A single-page application that allows users to create and manage a list of tasks. 
 - Technologies such as React, JavaScript, TypeScript, HTML/CSS, Fetch, REST API and React CSSTransition.
