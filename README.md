@@ -34,17 +34,23 @@ Welcome to my GitHub profile! I'm a Fullstack developer passionate about web dev
 - Technologies such as Next.js, JavaScript, TypeScript, Next App Router, Next Auth, Tailwind CSS, MongoDB, Mongoose, React Hot Toast, React Skeleton, SWR, and React CSSTransition.
 ### *[Demo Link](https://prompter-gretoq.vercel.app)*    |    *[Go to code](https://github.com/DovhunArtem/next_prompter)*
 
+## 
+
 ### ![Logo](https://github.com/DovhunArtem/DovhunArtem/assets/135975560/5227457d-8287-4bc3-b2d5-a2940dc903b0) [Nice Gadget Store](https://fe-jan23-team-six.github.io/product-catalog/#/)
 
 - A web application that allows users to browse for various products. It provides a user-friendly interface for viewing product details, managing product categories, and adding products to the cart. 
 - Technologies such as React, JavaScript, TypeScript, HTML/CSS, PostgreSQL, Sequelize, Express.js, React Skeleton, React Query, React Slick, React Swiper.
 ### *[Demo Link](https://fe-jan23-team-six.github.io/product-catalog/#/)* | *[Go to code](https://github.com/fe-jan23-team-six)*
 
-### ![image](https://github.com/DovhunArtem/DovhunArtem/assets/135975560/8e042da2-32da-4e3c-ba28-ce438271c97e) [Todo App](https://gretoq.github.io/todo-app/)
+## 
+
+### ![image 23](https://github.com/DovhunArtem/DovhunArtem/assets/135975560/e01d5599-4277-4995-9f2b-6540c92ca5b9) [Todo App](https://gretoq.github.io/todo-app/)
 
 - A single-page application that allows users to create and manage a list of tasks. 
 - Technologies such as React, JavaScript, TypeScript, HTML/CSS, Fetch, REST API and React CSSTransition.
 ### *[Demo Link](https://gretoq.github.io/todo-app/)* | *[Go to code](https://github.com/DovhunArtem/react_todo-app)*
+
+## 
 
 <!--  -->
 <!-- - [Project 1]: Brief description or tagline -->
